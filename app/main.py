@@ -35,7 +35,6 @@ TEMPLATE = """
     <div class="card">
       <p class="version"><b>Version:</b> {{ version }}</p>
       <p>{{ message }}</p>
-      <img src="/static/logo_v1.png" alt="Logo">
     </div>
   </body>
 </html>
